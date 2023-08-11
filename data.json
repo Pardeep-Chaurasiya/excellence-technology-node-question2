@@ -1,0 +1,47 @@
+[
+    {
+      "first_name": "Pardeep",
+      "last_name": "Chaurasiya",
+      "email": "pardeep@gmail.com",
+      "password": "admin123",
+      "dob":"1-1-1990",
+      "age":33,
+      "mobile_no":1234567890
+    },
+    {
+        "first_name": "Ankit",
+        "last_name": "Chaurasiya",
+        "email": "ankit@gmail.com",
+        "password": "admin123",
+        "dob":"1-1-2000",
+        "age":23,
+        "mobile_no":1234567890
+    },
+    {
+        "first_name": "Kuldeep",
+        "last_name": "Chaurasiya",
+        "email": "kuldeep@gmail.com",
+        "password": "admin123",
+        "dob":"1-1-2002",
+        "age":21,
+        "mobile_no":1234567890
+    },
+    {
+        "first_name": "Deepak",
+        "last_name": "Chaurasiya",
+        "email": "deepak@gmail.com",
+        "password": "admin123",
+        "dob":"1-1-1993",
+        "age":30,
+        "mobile_no":1234567890
+    },
+    {
+        "first_name": "Sandeep",
+        "last_name": "Chaurasiya",
+        "email": "sandeep@gmail.com",
+        "password": "admin123",
+        "dob":"1-1-1994",
+        "age":29,
+        "mobile_no":1234567890
+    }  
+  ]
