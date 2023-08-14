@@ -1,7 +1,7 @@
 const data = require("../data.json");
 const { connectDB } = require("../config/db");
 const md5 = require("md5");
-
+// gvjhb
 const getData = async (req, res) => {
   const db = await connectDB();
   for (let i = 0; i < data.length; i++) {
