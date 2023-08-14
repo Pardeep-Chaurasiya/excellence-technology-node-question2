@@ -7,7 +7,6 @@ const getData = async (req, res) => {
   for (let i = 0; i < data.length; i++) {
     const userData = await db.userCollection.find({}).toArray();
     const userProfileData = await db.userProfileCollection.find({}).toArray();
-    //   const userProfileData = await db.userProfileCollection.find({}).toArray();
 
     console.log("User data", userData);
     console.log("User Profile data", userProfileData);
